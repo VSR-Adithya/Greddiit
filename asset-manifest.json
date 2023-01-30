@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Greddiit/static/css/main.ffe3eee2.css",
+    "main.js": "/Greddiit/static/js/main.982d1ffc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Greddiit/static/js/787.28cb0dcd.chunk.js",
+    "static/media/background.png": "/Greddiit/static/media/background.a386ff0770ad9ee5696a.png",
+    "index.html": "/Greddiit/index.html",
+    "main.ffe3eee2.css.map": "/Greddiit/static/css/main.ffe3eee2.css.map",
+    "main.982d1ffc.js.map": "/Greddiit/static/js/main.982d1ffc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Greddiit/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe3eee2.css",
+    "static/js/main.982d1ffc.js"
+  ]
+}
