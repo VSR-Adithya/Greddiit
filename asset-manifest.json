@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Greddiit/static/css/main.ffe3eee2.css",
-    "main.js": "/Greddiit/static/js/main.cbcb8c78.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Greddiit/static/js/787.28cb0dcd.chunk.js",
-    "static/media/background.png": "/Greddiit/static/media/background.a386ff0770ad9ee5696a.png",
-    "index.html": "/Greddiit/index.html",
-    "main.ffe3eee2.css.map": "/Greddiit/static/css/main.ffe3eee2.css.map",
-    "main.cbcb8c78.js.map": "/Greddiit/static/js/main.cbcb8c78.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Greddiit/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.37bdbe26.css",
+    "main.js": "/static/js/main.7be33a7c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/background.png": "/static/media/background.a386ff0770ad9ee5696a.png",
+    "index.html": "/index.html",
+    "main.37bdbe26.css.map": "/static/css/main.37bdbe26.css.map",
+    "main.7be33a7c.js.map": "/static/js/main.7be33a7c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffe3eee2.css",
-    "static/js/main.cbcb8c78.js"
+    "static/css/main.37bdbe26.css",
+    "static/js/main.7be33a7c.js"
   ]
 }
